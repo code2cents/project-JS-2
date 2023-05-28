@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+body {
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    background-color: antiquewhite;
+  }
+  
+  #diceContainer {
+    margin: 50px 0;
+  }
+  
+  #diceImage {
+    width: 200px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+
